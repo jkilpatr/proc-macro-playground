@@ -1,0 +1,11 @@
+[[package]]
+name = "proc-macro-playground"
+version = "0.1.0"
+dependencies = [
+ "some_dep 0.1.0",
+]
+
+[[package]]
+name = "some_dep"
+version = "0.1.0"
+
